@@ -7,11 +7,11 @@ I'm a FullStack Developer Passionate about the best web and mobile development t
 🌎 Front-end Web with Reactjs  
 🛠️ Typescript  
 📡 Back-end with Nodejs | PHP
-🧰 And more...  
+🧰 See my LinkedIn: [Prisco Cleyton](https://www.linkedin.com/in/priscocleyton/)
 <div align="center">
   <a href="https://github.com/priscocleyton">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priscocleyton&show_icons=true&theme=compact&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscocleyton&layout=compact&langs_count=7&theme=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priscocleyton&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscocleyton&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
 
@@ -24,5 +24,5 @@ I'm a FullStack Developer Passionate about the best web and mobile development t
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
   
-See my LinkedIn: [Prisco Cleyton](https://www.linkedin.com/in/priscocleyton/)
+- 
 
