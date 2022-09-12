@@ -5,8 +5,9 @@ I'm a FullStack Developer Passionate about the best web and mobile development t
 #### My current tools 
 📲 Front-end Mobile with React Native  
 🌎 Front-end Web with Reactjs  
-📡 Back-end with Nodejs | PHP
 🛠️ Typescript  
+📡 Back-end with Nodejs | PHP
+
 🧰 And more...  
 
 <div align="center" >
