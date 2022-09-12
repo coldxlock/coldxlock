@@ -10,8 +10,8 @@ I'm a FullStack Developer Passionate about the best web and mobile development t
 🧰 And more...  
 <div align="center">
   <a href="https://github.com/priscocleyton">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priscocleyton&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscocleyton&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priscocleyton&show_icons=true&theme=compact&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscocleyton&layout=compact&langs_count=7&theme=compact"/>
 </div>
 
 
